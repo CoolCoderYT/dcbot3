@@ -1,2 +1,2 @@
-# dcbot3
-3nd fail
+# mydiscordbot
+Discord Bot
